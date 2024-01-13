@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Taxi" size="100.000000 141.442719" />
+    <ImageTarget name="Polisi" size="100.000000 141.442719" />
+    <ImageTarget name="Pilot" size="100.000000 141.442719" />
+    <ImageTarget name="Mobil" size="100.000000 141.442719" />
+    <ImageTarget name="Mobil_Polisi" size="100.000000 141.442719" />
+    <ImageTarget name="Meja" size="100.000000 141.442719" />
+    <ImageTarget name="Kursi" size="100.000000 141.442719" />
+    <ImageTarget name="Koki" size="100.000000 141.442719" />
+    <ImageTarget name="Dokter" size="100.000000 141.442719" />
+    <ImageTarget name="Ambulan" size="100.000000 141.442719" />
+  </Tracking>
+</QCARConfig>
