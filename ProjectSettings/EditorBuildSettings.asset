@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/_Scenes/AR Scene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
+    path: Assets/_Scenes/Kuis.unity
+    guid: 2ef46ccc4f7b9a24eb1dc488873d16fe
+  - enabled: 1
     path: Assets/_Scenes/Materi.unity
     guid: 909b1d257257a5f489d96568da5a5bfd
   - enabled: 1

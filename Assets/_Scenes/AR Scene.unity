@@ -395,6 +395,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1342031754}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1342031755}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1342031756}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!1001 &152249261
 PrefabInstance:
@@ -642,6 +648,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Meja
       objectReference: {fileID: 0}
+    - target: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6479390636365575512, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       propertyPath: mPreview
       value: 
@@ -716,6 +726,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1259887179}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1259887180}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!4 &308387228 stripped
 Transform:
@@ -1488,6 +1501,44 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 522787897}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &522787902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 522787895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 522787897}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Dokter
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 522787897}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &522787903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 522787895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 522787897}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Dokter
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 522787897}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &548930373
 GameObject:
   m_ObjectHideFlags: 0
@@ -1673,6 +1724,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1675663008}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1675663009}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1675663010}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!4 &556384422 stripped
 Transform:
@@ -1773,6 +1830,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 859832162}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 859832163}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 859832164}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!4 &559138003 stripped
 Transform:
@@ -1884,6 +1947,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1652111058}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1652111059}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1652111060}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!4 &560396212 stripped
 Transform:
@@ -2009,7 +2078,7 @@ PrefabInstance:
     - target: {fileID: 6479390636365575512, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       propertyPath: mPreview
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1014811008}
     - target: {fileID: 6479390636365575512, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       propertyPath: mTrackableName
       value: Taxi
@@ -2083,6 +2152,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1014811005}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1014811006}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1014811008}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1014811007}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!4 &696093561 stripped
 Transform:
@@ -2370,6 +2448,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1799384027}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1799384028}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1799384029}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!1001 &826612355
 PrefabInstance:
@@ -2477,6 +2561,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 522787901}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 522787902}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 522787903}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!1 &859832157 stripped
 GameObject:
@@ -2495,6 +2585,44 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &859832162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859832157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 859832159}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pilot
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 859832159}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &859832163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859832157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 859832159}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pilot
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 859832159}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &859832164
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2745,6 +2873,88 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1014811002}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1014811006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014811000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1014811002}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Taxi
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1014811002}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1014811007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014811000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 886328de6a5c14cbb85854fdf1a5085b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StatusFilter: 2
+  UsePoseSmoothing: 0
+  AnimationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 3.3333333
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.3
+      value: 1
+      inSlope: 3.3333333
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  OnTargetFound:
+    m_PersistentCalls:
+      m_Calls: []
+  OnTargetLost:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &1014811008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014811000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1014811002}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Taxi
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1014811002}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1259887174 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
@@ -2762,6 +2972,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1259887179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1259887174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1259887176}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Meja
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1259887176}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1259887180
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3019,6 +3248,44 @@ Transform:
   m_PrefabInstance: {fileID: 38186493}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1342031754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342031748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1342031750}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Koki
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1342031750}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1342031755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342031748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1342031750}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Koki
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1342031750}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1342031756
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3517,6 +3784,44 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1652111058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652111053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1652111055}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Ambulan
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1652111055}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1652111059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652111053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1652111055}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Ambulan
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1652111055}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1652111060
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4048,6 +4353,44 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1675663005}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1675663009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675663003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1675663005}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Mobil_Polisi
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1675663005}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1675663010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675663003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1675663005}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Mobil_Polisi
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1675663005}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1682214767
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4244,6 +4587,44 @@ Transform:
   m_PrefabInstance: {fileID: 794220471}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1799384027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1799384021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1799384023}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Polisi
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1799384023}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1799384028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1799384021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1799384023}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Polisi
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1799384023}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1799384029
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5460,6 +5841,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1997974323}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1997974324}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1997974325}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!4 &1997974318 stripped
 Transform:
@@ -5478,6 +5865,44 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1997974323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1560979656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1997974320}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Mobil
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1997974320}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1997974324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1560979656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1997974320}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Mobil
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 1997974320}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1997974325
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5612,6 +6037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kursi
       objectReference: {fileID: 0}
+    - target: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6479390636365575512, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       propertyPath: mPreview
       value: 
@@ -5686,6 +6115,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2068520894}
+    - targetCorrespondingSourceObject: {fileID: 4955087048979259959, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2068520895}
   m_SourcePrefab: {fileID: 100100000, guid: 28b3020e84150e14dbac8ecde248f294, type: 3}
 --- !u!4 &2068520889 stripped
 Transform:
@@ -5704,6 +6136,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &2068520894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893993482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 2068520891}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Kursi
+  mDatasetName: Vuforia/Skripsi.xml
+  mCastedBehaviour: {fileID: 2068520891}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &2068520895
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

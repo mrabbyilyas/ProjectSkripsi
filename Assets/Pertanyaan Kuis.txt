@@ -1,0 +1,34 @@
+Apa bahasa jawa dari mobil?
++Montor Mabur
++Montor
++Pit Montor
++Angkot
++B
+
+#Siapa yang mengendalikan montor mabur?
++Koki
++Polisi
++Dokter
++Pilot
++D
+
+#"Aku ahli masak lan seneng gawe panganan enak" Siapa aku?
++Koki
++Polisi
++Dokter
++Pilot
++A
+
+#Polisi mengendarai apa ketika bekerja?
++Montor Polisi
++Montor Mabur
++Pit Montor
++Angkot
++A
+
+#Aku ..... tugasku yaiku ngerawat wong sing lara
++Koki
++Polisi
++Dokter
++Pilot
++C

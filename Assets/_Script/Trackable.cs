@@ -4,21 +4,21 @@ using UnityEngine;
 
 public class Trackable : DefaultObserverEventHandler
 {
-    public AudioSource suara;
+    public AudioSource suaraVoiceOver;
     void Awake()
     {
-        suara = GetComponent<AudioSource>();
+        suaraVoiceOver = GetComponent<AudioSource>();
     }
 
     protected override void OnTrackingFound()
     {
         base.OnTrackingFound();
-        suara.Play();
+        suaraVoiceOver.Play();
     }
 
     protected override void OnTrackingLost()
     {
         base.OnTrackingLost();
-        suara.Stop();
+        suaraVoiceOver.Stop();
     }
 }

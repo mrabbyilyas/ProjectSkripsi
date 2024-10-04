@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class buttonmanager : MonoBehaviour
+public class ManagerScene : MonoBehaviour
 {
     public void ChangeScene(string NamaScene)
     {
